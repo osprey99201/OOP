@@ -8,6 +8,10 @@ abstract class Person {
     public Person(String n, String c, String d) {
         name = n;
         CNIC = c;
+
+
+
+        
         DOB = d;
     }
 
